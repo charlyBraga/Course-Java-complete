@@ -1,4 +1,4 @@
-## Bem vindo a este minicurso de Java criado por Charly Braga
+## Bem vindo a este minicurso de Java criado (autor: Charly Braga)
 
 Neste minucurso ensinaremos um pouco sobre java, desde do básico ao avançado, focando em Programação Orientada à Objeto (POO).
 
@@ -7,7 +7,12 @@ Neste minucurso ensinaremos um pouco sobre java, desde do básico ao avançado, 
 ### Tipos primitivos de dados
 Quando declaramos uma variável no Java, precisamos definir uma tipo para ela, pois esta linguagem é fortemente tipada.
 
-Caso for definir uma idade, por exemplo, o tipo deve ser inteiro, para texto deve ser string. A seguir vamos mostrar como declarar cada tipo, como usar e alguns especificações deles:
+Caso for definir uma idade, por exemplo, o tipo deve ser inteiro, para texto deve ser string. A seguir vamos mostrar como declarar cada tipo, como usar e alguns especificações deles.
+
+A variável inteira é declara como int, e ocupa 32 bits na memória, ou seja, 11111...32x em binário, que equivale em decimal a 2³² = 4294967296 = -2147483648 até 2147483647. 
+'''
+int idade = 20;
+'''
 
 ```markdown
 Syntax highlighted code block
