@@ -1,13 +1,13 @@
-## Bem vindo a este curso de Java
+## Bem vindo a este minicurso de Java criado por Charly Braga
 
-Neste minucurso ensinaremos um pouco sobre java, deste do básico ao avançado, focando em Programação Orientada à Objeto.
+Neste minucurso ensinaremos um pouco sobre java, desde do básico ao avançado, focando em Programação Orientada à Objeto (POO).
 
 
 
 ### Tipos primitivos de dados
 Quando declaramos uma variável no Java, precisamos definir uma tipo para ela, pois esta linguagem é fortemente tipada.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Caso for definir uma idade, por exemplo, o tipo deve ser inteiro, para texto deve ser string. A seguir vamos mostrar como declarar cada tipo, como usar e alguns especificações deles:
 
 ```markdown
 Syntax highlighted code block
