@@ -2,7 +2,7 @@
 
 Bem vindo a este curso de Java! Aqui ensinaremos um pouco sobre java, desde do básico ao avançado, focando em Programação Orientada à Objeto (POO).
 
-
+## [Tipos primitivos de dados](https://github.com/charlyBraga/Course-Java-complete/blob/gh-pages/type_data.md)
 
 ### Tipos primitivos de dados
 Quando declaramos uma variável no Java, precisamos definir uma tipo para ela, pois esta linguagem é fortemente tipada.
