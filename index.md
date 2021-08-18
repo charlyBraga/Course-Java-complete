@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Bem vindo a este curso de Java
 
-You can use the [editor on GitHub](https://github.com/charlyBraga/Course-Java-complete/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Neste minucurso ensinaremos um pouco sobre java, deste do básico ao avançado, focando em Programação Orientada à Objeto.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### Tipos primitivos de dados
+Quando declaramos uma variável no Java, precisamos definir uma tipo para ela, pois esta linguagem é fortemente tipada.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
